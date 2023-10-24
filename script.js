@@ -83,4 +83,3 @@ function deleteIssue (id) {
 }
 
 
-// Developed by Jeelani Hansha
